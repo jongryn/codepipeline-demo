@@ -2,7 +2,7 @@
   "Parameters" : {
     "TagKey": "Name",
     "TagValue": "DemoSampleTomcatProd",
-    "KeyPairName": "prod_key",
+    "KeyPairName": "prod-stack",
     "InstanceCount": "2"
   }
 }

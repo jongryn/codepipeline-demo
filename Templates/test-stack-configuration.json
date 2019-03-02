@@ -2,7 +2,7 @@
   "Parameters" : {
     "TagKey": "Name",
     "TagValue": "DemoSampleTomcatTest",
-    "KeyPairName": "test_key",
+    "KeyPairName": "test-stack",
     "InstanceCount": "2"
   }
 }
